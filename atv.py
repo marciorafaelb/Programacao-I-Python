@@ -15,5 +15,10 @@
 #  media = (nota1 + nota2 + nota3 + nota4) / 4
 #  print("A media do aluno é:", media)
 
+#5 m = float(input("Digite a quantidade de metros que serão convertidos em centímetros: "))
+#  cm = m * 100
+#  print(f" {m} metros correspondem a {cm} centímetros")
+
+
 
 
